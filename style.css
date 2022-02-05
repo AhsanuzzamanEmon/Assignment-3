@@ -1,0 +1,167 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+	margin: 0 auto;
+
+	width: 1140px;
+}
+
+header{
+
+
+}
+.logo{
+width: 100%;
+float:left;
+
+	background-color: orange;
+	height: 72px;
+}
+
+.logo img{
+	width: 60px;
+	height: 60px;
+	float: left;
+
+	padding: 10px;
+
+}
+.menue{
+	float: left;
+text-align: center;
+padding: 20px;
+}
+.menue nav ul{
+list-style: none;
+text-decoration: : none;
+
+}
+.menue nav ul li {
+display:inline-block;
+margin: 0px 40px;
+background color:white;
+}
+.menue nav ul li a{
+	text-decoration: none;
+	color:white;
+}
+.icon ul{
+	list-style: none;
+}
+.icon ul li{
+	display:inline-block;
+	margin: 25px 15px;
+}
+.icon ul li a{
+	text-decoration: none;
+}
+.pic{
+	background-image:url(../image/restraunt.jpg);
+	float: left;
+	height: 600px;
+	width: 1140px;
+
+}
+.box{
+
+background-color: #1a1a1a38;
+    margin: 55px;
+    padding: 10px;
+    width: 35%;
+    height: 200px;
+
+}
+.box h1{
+	float: left;
+	height: 50px;
+	width: 300px;
+	color: red;
+	padding: -17px;
+	margin: 20px;
+	color: white;
+	font-style: italic;
+
+}
+.box-one{
+	height: 260px;
+    width: 25%;
+    float: left;
+    margin: 35px 0px 0px 0px;
+}
+.box button{
+	text-transform: uppercase;
+    margin: 14px 50px 0px 0px;
+    padding: 2px;
+    background: #228f22;
+    border-radius: 6px;
+    color: #fff;
+    cursor: pointer;
+    float: left;
+}
+.box-one img{
+display: block;
+    width: 80px;
+    margin: 0px 0px 0px 100px;
+}
+.box-one h1{
+	font-size: 17px;
+    margin: 5px 0px 0px 0px;
+    padding: 0px 2px 0px 0px;
+}
+.box-one button{
+	margin: 0px 0px 0px 100px;
+    background: green;
+    border-radius: 7px;
+    padding: 5px;
+    color: white;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.box-two{
+height: 260px;
+    width: 25%;
+    float: left;
+    margin: 35px 0px 0px 80px;
+}
+.box-two img{
+display: block;
+    width: 80px;
+    margin: 0px 0px 0px 100px;
+}
+.box-two h1{
+	font-size: 17px;
+    margin: 5px 0px 0px 0px;
+    padding: 0px 2px 0px 0px;
+}
+.box-two button{
+	margin: 0px 0px 0px 100px;
+    background: green;
+    border-radius: 7px;
+    padding: 5px;
+    color: white;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.box-three{
+fheight: 260px;
+    width: 25%;
+    float: left;
+    margin: 35px 0px 0px 80px;
+}
+.box-three img{
+display: block;
+    width: 80px;
+    margin: 0px 0px 0px 100px;
+}
+.box-three button{
+	margin: 0px 0px 0px 100px;
+    background: green;
+    border-radius: 7px;
+    padding: 5px;
+    color: white;
+    text-transform: uppercase;
+    cursor: pointer;
+}
